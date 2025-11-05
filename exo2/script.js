@@ -22,7 +22,6 @@ function F2 (){
   console.log(etudiant);
 };
 
-
 /* declaration D'un tableau d'objets etudiants */
 const tableauObjetsEtudiants = [
 { nom: "nom1", prenom: "prenom1", age: 21 },

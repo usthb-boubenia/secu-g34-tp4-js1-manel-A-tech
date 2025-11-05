@@ -7,7 +7,6 @@
  const note = 15;
  const pi = 3.14 ;
  
- 
  /*declaration des fonctions: F1 F2 F3 F4 F5 F6 - slide 45 */
 
  function F1 (){
