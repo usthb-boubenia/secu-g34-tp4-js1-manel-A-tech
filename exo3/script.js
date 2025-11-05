@@ -36,6 +36,5 @@ function A (){
     /* template literals  - slide 46 */
     const delibMsg = `${student.id}: ${delibStatut}`
     console.log(delibMsg)
-
   });
 };
